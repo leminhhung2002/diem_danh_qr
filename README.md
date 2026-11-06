@@ -172,9 +172,5 @@ Cài đặt Python 3 nếu chưa có, sau đó cài đặt các thư viện cầ
 4. Môi trường mạng: 
 - Thiết bị quét QR cần kết nối cùng mạng với máy chủ.
 
-## 📰 Poster
-<p align="center">
-  <img src="images/PosterNhom1.PNG" alt="System Architecture" width="800"/>
-</p>
 
 
